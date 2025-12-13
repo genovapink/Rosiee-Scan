@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import LoginScreen from './components/LoginScreen';
 import Scanner from './components/Scanner';
 import MapScreen from './components/MapScreen';
-import Profile from './components/Profile';
+import Profile from './components/ProfileClean';
 import RewardsShop from './components/RewardsShop';
 import Navigation from './components/Navigation';
 import FloatingChatbot from './components/FloatingChatbot';
